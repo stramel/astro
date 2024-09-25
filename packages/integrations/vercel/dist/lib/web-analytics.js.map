@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/lib/web-analytics.ts"],
+  "mappings": "AAIA,eAAsB,iCAAiC;AAAA,EACtD;AACD,GAEG;AACF,QAAM,OAAO;AAEb,MAAI,SAAS,eAAe;AAC3B,WAAO;AAAA,KACJ,IAAI;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,EAOR;AAEA,SAAO,GAAG,IAAI;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAOf;",
+  "names": []
+}

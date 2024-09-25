@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/lib/prerender.ts"],
+  "mappings": "AAEO,SAAS,mBAAmB,QAAqB;AACvD,SAAO,OAAO,WAAW,YAAY,OAAO,WAAW;AACxD;",
+  "names": []
+}
